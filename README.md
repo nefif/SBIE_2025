@@ -4,6 +4,9 @@ Este repositório contém os artefatos computacionais do artigo **"Suporte à El
 
 O objetivo é fornecer todos os prompts, bibliotecas, frameworks e modelos utilizados no estudo para a possibilidade que seja possível a reprodução do método.
 
+O documento utilizado no Estudo de Caso para guiar a Inteligência Artificial Generativa foi o documetno feito pela Sociedade Brasileira de Computação e a Associação Brasileira de Estátistica - Referenciais de Formação para o Curso
+de Bacharelado em Ciência de Dados - localizado na url: https://books-sol.sbc.org.br/index.php/sbc/catalog/book/126
+
 ---
 
 ## Ambiente e Dependências
