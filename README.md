@@ -1,8 +1,8 @@
 # Suporte à Elaboração de Matrizes Curriculares com IA Generativa e Grafos
 
-Este repositório contém os artefatos computacionais (dados, códigos e configurações) do artigo **"Suporte à Elaboração Matriz Curricular e Disciplinas com Inteligência Artificial Generativa e Grafos para Cursos de Graduação"**. O trabalho apresenta um método que integra Inteligência Artificial Generativa (IAGen) e Análise de Grafos para apoiar a criação, validação e organização de matrizes curriculares para cursos de graduação.
+Este repositório contém os artefatos computacionais do artigo **"Suporte à Elaboração Matriz Curricular e Disciplinas com Inteligência Artificial Generativa e Grafos para Cursos de Graduação"**. O trabalho apresenta um método que integra Inteligência Artificial Generativa (IAGen) e Análise de Grafos para apoiar a criação, validação e organização de matrizes curriculares para cursos de graduação.
 
-O objetivo é fornecer todos os elementos necessários para garantir a total reprodutibilidade dos resultados apresentados no estudo.
+O objetivo é fornecer todos os prompts, bibliotecas, frameworks e modelos utilizados no estudo para a possibilidade que seja possível a reprodução do método.
 
 ---
 
